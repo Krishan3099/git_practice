@@ -21,9 +21,9 @@ I just want to talk about a few things
 * The world is changing and everyon should excel and be part of the fun
 
 
-### Were am I learning this?
+### Where am I learning this?
 
 Check out [Codecademy](https://www.codecademy.com/).
 
 ### Heres a funny pic of github where I store my code
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![Octopus](https://myoctocat.com/assets/images/base-octocat.svg)
