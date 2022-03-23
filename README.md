@@ -23,7 +23,7 @@ I just want to talk about a few things
 
 ### Where am I learning this?
 
-Check out [Codecademy](https://www.codecademy.com/).
+* Check out [Codecademy](https://www.codecademy.com/).
 
 ### Heres a funny pic of github where I store my code
 ![Octopus](https://myoctocat.com/assets/images/base-octocat.svg)
